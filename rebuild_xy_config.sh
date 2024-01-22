@@ -1,5 +1,6 @@
 #!/bin/bash
 
+mkdir -p /media/temp
 cd /media/temp
 #wget -4 -N --show-progress "$docker_addr/d/元数据/config.mp4"
 #wget -4 -N --show-progress "$docker_addr/d/元数据/pikpak.mp4"
